@@ -1,0 +1,19 @@
+# Eclipse / IDE files
+.project
+.classpath
+.settings/
+.metadata/
+
+# Compiled output
+bin/
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JVM crash logs
+hs_err_pid*
